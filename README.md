@@ -1,2 +1,2 @@
 # clone-tabnews
-aprendendo a me toranr um profissional melhor com o curso.dev do filipe deschamps
+Projeto baseado no tab-news, seguindo o cuso.dev do Filipe Deschamps
